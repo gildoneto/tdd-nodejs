@@ -1,0 +1,23 @@
+{
+  "name": "tdd-nodejs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildoneto/tdd-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildoneto/tdd-nodejs/issues"
+  },
+  "homepage": "https://github.com/gildoneto/tdd-nodejs#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
