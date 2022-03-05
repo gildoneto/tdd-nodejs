@@ -4,4 +4,5 @@ function mediana(arr) {
   return ordenado[meio]
 }
 
+console.log(mediana([4,8,2,8,9]))
 module.exports = mediana;
